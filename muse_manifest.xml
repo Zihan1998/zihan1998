@@ -1,0 +1,68 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="zihan1998.github.io" resolutions="1x,2x" timestamp="1556720869993">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3890746794" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="447436069" ref="index"/>
+    <file name="img_8759.jpg" crc="4133379673" ref="index"/>
+    <file name="img_8760.jpg" crc="481082303" ref="index"/>
+    <file name="logo.png" crc="3856090098" seo="true" ref="index"/>
+    <file name="logo_2x.png" crc="3944380318" seo="true" ref="index"/>
+    <file name="u1164-4.png" crc="138178632" ref="index"/>
+    <file name="u1164-4_2x.png" crc="4253713085" ref="index"/>
+    <file name="u1170-4.png" crc="63022718" ref="index"/>
+    <file name="u1170-4_2x.png" crc="381412948" ref="index"/>
+    <file name="u1174-4.png" crc="377225365" ref="index"/>
+    <file name="u1174-4_2x.png" crc="4382093" ref="index"/>
+    <file name="u1392-4.png" crc="261080543" ref="index"/>
+    <file name="u1392-4_2x.png" crc="3883098365" ref="index"/>
+    <file name="u171-4.png" crc="364101307" ref="index"/>
+    <file name="u171-4_2x.png" crc="3820458203" ref="index"/>
+    <file name="pasted-svg-1359751x765.svg" crc="96247320" seo="true" ref="index"/>
+    <file name="pasted svg 1359751x765_poster_.png" crc="286548345" ref="index"/>
+    <file name="fullsizeoutput_d4.jpg" crc="4257893848" ref="index"/>
+    <file name="fullsizeoutput_d4_2x.jpg" crc="4047347324" ref="index"/>
+    <file name="fullsizeoutput_427.jpg" crc="224070185" ref="index"/>
+    <file name="fullsizeoutput_427_2x.jpg" crc="175139715" ref="index"/>
+    <file name="fullsizeoutput_424.jpg" crc="4087196398" ref="index"/>
+    <file name="fullsizeoutput_424_2x.jpg" crc="50252211" ref="index"/>
+    <file name="fullsizeoutput_42c.jpg" crc="472441335" ref="index"/>
+    <file name="u242-4.png" crc="4246834828" ref="index"/>
+    <file name="u242-4_2x.png" crc="480271477" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13530.jpg" crc="3933219523" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13530_2x.jpg" crc="100968994" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13507.jpg" crc="3819681636" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13507_2x.jpg" crc="4059021747" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13553.jpg" crc="20878658" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13553_2x.jpg" crc="8558822" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13623.jpg" crc="3861584991" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13623_2x.jpg" crc="156461353" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13657.jpg" crc="30553930" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13657_2x.jpg" crc="243520721" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13727.jpg" crc="435073230" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13727_2x.jpg" crc="424269619" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13814.jpg" crc="4059288341" seo="true" ref="index"/>
+    <file name="屏幕快照 2019-04-30 下午13814_2x.jpg" crc="62577590" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u328-4.png" crc="115306978" ref="index"/>
+    <file name="u328-4_2x.png" crc="299836171" ref="index"/>
+    <file name="播放頁面.jpg" crc="482072965" seo="true" ref="index"/>
+    <file name="播放頁面_2x.jpg" crc="501297563" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="318120649" seo="true" mt="1556697644853" redirect="true"/>
+</manifest>
